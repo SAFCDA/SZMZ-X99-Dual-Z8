@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
 </a>
 
-### <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC8h2Sf-yyo1WXeEUr-OHgyg">Sponsored by ( Miyconst ) YouTube Channel </a> & <a target="_blank" rel="noopener noreferrer" href="https://huanan.pl/"> ( Huanan.pl ) PC Store</a>
+### <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/Miyconst/videos">Sponsored by ( Miyconst ) YouTube Channel </a> & <a target="_blank" rel="noopener noreferrer" href="https://huanan.pl/"> ( Huanan.pl ) PC Store</a>
 * ##### Release BQ36V2RD November-20-2020
     <a href="https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/releases/latest">
         <img src="https://img.shields.io/github/release/BIOS-iEngineer/SZMZ-X99-Dual-Z8.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
