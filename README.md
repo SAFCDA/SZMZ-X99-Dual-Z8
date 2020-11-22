@@ -23,14 +23,14 @@
 ## BQ36V2RD BIOS for SZMZ X99 Dual Z8 Motherboard
 Feature: UEFI Only.
 
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-01.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-02.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-03.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-04.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-05.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-06.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-07.png" alt="Machinist X99Z C612RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-01.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-02.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-03.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-04.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-05.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-06.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-07.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
 
 How to update Firmware:
 
