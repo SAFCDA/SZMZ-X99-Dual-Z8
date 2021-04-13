@@ -21,13 +21,15 @@
     </a>
 
 ## BQ36V2RD BIOS for SZMZ X99 Dual Z8 Motherboard
-Feature: UEFI Only.
+Feature:
+
+* UEFI Only.
 
 Supported hardware:
 
-2x 22/44 core/thread Intel Xeon E5 V4 CPUs.
+* 2x 22/44 core/thread Intel Xeon E5 V4 CPUs.
 
-8 channels RDIMM & UDIMM DDR4 Memory up to 2400MHz.
+* 8 channels RDIMM & UDIMM DDR4 Memory up to 2400MHz.
 
 ## How to update Firmware:
 
