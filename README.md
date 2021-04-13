@@ -23,6 +23,19 @@
 ## BQ36V2RD BIOS for SZMZ X99 Dual Z8 Motherboard
 Feature: UEFI Only.
 
+Supported hardware:
+
+2x 22/44 core/thread Intel Xeon E5 V4 CPUs.
+
+8 channels RDIMM & UDIMM DDR4 Memory up to 2400MHz.
+
+## How to update Firmware:
+
+   1) Burn the Firmware to programmer device. (e.g. EZP-2019)
+   2) Clear CMOS.
+   3) Configure RAM timings & enjoy.
+   4) * In some cases, it is required to reset the Power Good signal (Due to the lack of standardization on the part of the motherboard manufacturer)
+
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/SZMZ-Full Logo.bmp" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-01.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
@@ -32,9 +45,3 @@ Feature: UEFI Only.
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-05.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-06.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36V2RD-07.png" alt="SZMZ X99 Dual Z8 BQ36V2RD BIOS" />
-
-How to update Firmware:
-
-   1) Burn the Firmware to programmer device. (e.g. EZP-2019)
-   2) Clear CMOS.
-   3) Configure RAM timings & enjoy.
