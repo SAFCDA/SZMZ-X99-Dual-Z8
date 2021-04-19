@@ -33,7 +33,7 @@ Supported hardware:
 
 ## How to update Firmware:
 
-   1) Burn the Firmware to programmer device. (e.g. EZP-2019)
+   1) Burn the Firmware with programmer device. (e.g. EZP-2019)
    2) Clear CMOS.
    3) Configure RAM timings & enjoy.
    4) * In some cases, it is required to reset the Power Good signal (Due to the lack of standardization on the part of the motherboard manufacturer)
