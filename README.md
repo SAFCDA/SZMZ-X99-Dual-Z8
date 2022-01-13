@@ -27,9 +27,9 @@ Feature:
 
 Supported hardware:
 
-* 2x 22/44 core/thread Intel Xeon E5 V4 CPUs.
+* TEST OK ✔️ 2x 22/44 core/thread Intel Xeon E5 V4 CPUs.
 
-* 8 channels RDIMM & UDIMM DDR4 Memory up to 2400MHz.
+* TEST OK  ✔️ 8 channels RDIMM, LRDIMM & UDIMM DDR4 Memory up to 2400MHz.
 
 ## How to update Firmware:
 
